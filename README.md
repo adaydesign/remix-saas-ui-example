@@ -1,38 +1,21 @@
-# Welcome to Remix!
+# CMX UI Stack
 
-- [Remix Docs](https://remix.run/docs)
+- Remix v.2 [https://remix.run/docs/en/main]
+- Chakra UI + Saas UI + Glass Theme 
+    - [https://saas-ui.dev/]
+    - [https://saas-ui.dev/blog/introducing-glass-theme-for-chakra-ui]
+- Fontsource [https://fontsource.org/]
+- React Icon [https://react-icons.github.io/]
+- React Hook Form [https://react-hook-form.com/]
+- Saas UI DataTable + Tanstack Table [https://tanstack.com/table/v8]
 
-## Development
 
-From your terminal:
+## Mockup Data and API
 
-```sh
-npm run dev
-```
+- Data : /app/constants/api.data.ts
+- API : /app/routes/api.users.ts
 
-This starts your app in development mode, rebuilding assets on file changes.
+## Demo Layout
 
-## Deployment
+- Home
 
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`

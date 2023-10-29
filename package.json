@@ -10,13 +10,24 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@fontsource/kanit": "^5.0.17",
+    "@fontsource/sarabun": "^5.0.17",
     "@remix-run/css-bundle": "^2.1.0",
     "@remix-run/node": "^2.1.0",
     "@remix-run/react": "^2.1.0",
     "@remix-run/serve": "^2.1.0",
+    "@saas-ui/react": "^2.3.0",
+    "@saas-ui/theme-glass": "^0.5.1",
+    "framer-motion": "^6.5.1",
     "isbot": "^3.6.8",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.47.0",
+    "react-icons": "^4.11.0"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.1.0",
