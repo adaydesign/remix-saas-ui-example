@@ -7,6 +7,7 @@
     "build": "remix build",
     "dev": "remix dev --manual",
     "start": "remix-serve ./build/index.js",
+    "deploy": "fly deploy --remote-only",
     "typecheck": "tsc"
   },
   "dependencies": {
@@ -30,6 +31,7 @@
     "react-icons": "^4.11.0"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.10",
     "@remix-run/dev": "^2.1.0",
     "@remix-run/eslint-config": "^2.1.0",
     "@types/react": "^18.2.20",
