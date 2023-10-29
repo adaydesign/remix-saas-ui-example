@@ -17,5 +17,5 @@
 
 ## Demo Layout
 
-- Home
-
+- Home Layout
+![Alt text](https://raw.githubusercontent.com/adaydesign/remix-saas-ui-example/main/screenshots/demox1.png "Home Layout")
